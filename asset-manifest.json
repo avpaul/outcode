@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a39fa768.chunk.css",
+    "main.js": "/static/js/main.fc618467.chunk.js",
+    "main.js.map": "/static/js/main.fc618467.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.39d0b8b0.chunk.js": "/static/js/2.39d0b8b0.chunk.js",
+    "static/js/2.39d0b8b0.chunk.js.map": "/static/js/2.39d0b8b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c614b6ae2585a5b7ad2bb898b277c19a.js": "/precache-manifest.c614b6ae2585a5b7ad2bb898b277c19a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a39fa768.chunk.css.map": "/static/css/main.a39fa768.chunk.css.map",
+    "static/media/App.scss": "/static/media/AvenirLTStd-Medium.5ae9e0cb.woff",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
+}
